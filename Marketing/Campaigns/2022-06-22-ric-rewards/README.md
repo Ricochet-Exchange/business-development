@@ -6,7 +6,7 @@
 
 ## Tweets
 
-### 2022-06-22
+### 2022-06-24
 1/ Mark your calendars for July 1!
 
 Only 6 days left until the next round of RIC rewards resumes.
@@ -24,10 +24,10 @@ Get started now: https://app.ricochet.exchange/#/ref/rewards
 
 Get started now: https://app.ricochet.exchange/#/ref/rewards
 
-### 2022-06-24
+### 2022-06-26
 TBD
 
-### 2022-06-27
+### 2022-06-28
 TBD 
 
 ### 2022-06-30
