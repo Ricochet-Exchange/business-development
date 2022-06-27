@@ -24,8 +24,22 @@ Get started now: https://app.ricochet.exchange/#/ref/rewards
 
 Get started now: https://app.ricochet.exchange/#/ref/rewards
 
-### 2022-06-26
-TBD
+### 2022-06-27
+1/ Only 4 days left until RIC rewards resume! Starting July 1st, everyone using Ricochet to buy/sell ETH, WBTC, and MATIC will receive RIC.
+
+Ricochet's DCA triggers buys/sells every 15 minutes so you never miss a dip. Stop stressing, DCA and chill 
+
+Try now: https://app.ricochet.exchange/#/ref/rewards
+
+![low_stress_dca](./low_stress_dca.png)
+
+2/ How to participate:
+
+- Use Ricochet to dollar-cost average into or out of WBTC, ETH, or MATIC from July 1st to October 1st
+
+- You'll receive RIC rewards in proportion to your flow rate every 15 minutes
+
+- Each market is allocated 100K per month
 
 ### 2022-06-28
 TBD 
